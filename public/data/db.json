@@ -1,0 +1,203 @@
+[
+        {
+            "question": "What is the capital of France?",
+            "options": ["Berlin", "Madrid", "Paris", "Rome"],
+            "correct_answer": "Paris"
+        },
+        {
+            "question": "What is 2 + 2?",
+            "options": ["3", "4", "5", "6"],
+            "correct_answer": "4"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "correct_answer": "Jupiter"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "O2", "CO2", "NaCl"],
+            "correct_answer": "H2O"
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+            "correct_answer": "Harper Lee"
+        },
+        {
+            "question": "What is the speed of light?",
+            "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+            "correct_answer": "300,000 km/s"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": ["0", "1", "2", "3"],
+            "correct_answer": "2"
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+            "correct_answer": "Mitochondria"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+            "correct_answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "What is the capital of Japan?",
+            "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+            "correct_answer": "Tokyo"
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+            "correct_answer": "Pacific Ocean"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Iron", "Diamond", "Silver"],
+            "correct_answer": "Diamond"
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+            "correct_answer": "Albert Einstein"
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "options": ["Tomato", "Onion", "Avocado", "Pepper"],
+            "correct_answer": "Avocado"
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+            "correct_answer": "Ottawa"
+        },
+        {
+            "question": "What is the largest mammal?",
+            "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+            "correct_answer": "Blue Whale"
+        },
+        {
+            "question": "What is the square root of 64?",
+            "options": ["6", "7", "8", "9"],
+            "correct_answer": "8"
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "options": ["Venice", "Milan", "Rome", "Naples"],
+            "correct_answer": "Rome"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Au", "Ag", "Pb", "Fe"],
+            "correct_answer": "Au"
+        },
+        {
+            "question": "Who wrote '1984'?",
+            "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.K. Rowling"],
+            "correct_answer": "George Orwell"
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+            "correct_answer": "Canberra"
+        },
+        {
+            "question": "What is the smallest country in the world?",
+            "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+            "correct_answer": "Vatican City"
+        },
+        {
+            "question": "What is the chemical symbol for sodium?",
+            "options": ["Na", "S", "N", "K"],
+            "correct_answer": "Na"
+        },
+        {
+            "question": "Who wrote 'Pride and Prejudice'?",
+            "options": ["Jane Austen", "Charlotte Bronte", "Emily Bronte", "Mary Shelley"],
+            "correct_answer": "Jane Austen"
+        },
+        {
+            "question": "What is the capital of Germany?",
+            "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+            "correct_answer": "Berlin"
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+            "correct_answer": "Sahara"
+        },
+        {
+            "question": "What is the chemical symbol for iron?",
+            "options": ["Ir", "Fe", "In", "I"],
+            "correct_answer": "Fe"
+        },
+        {
+            "question": "Who wrote 'The Great Gatsby'?",
+            "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
+            "correct_answer": "F. Scott Fitzgerald"
+        },
+        {
+            "question": "What is the capital of Russia?",
+            "options": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg"],
+            "correct_answer": "Moscow"
+        },
+        {
+            "question": "What is the smallest continent?",
+            "options": ["Europe", "Australia", "Antarctica", "South America"],
+            "correct_answer": "Australia"
+        },
+        {
+            "question": "What is the chemical symbol for potassium?",
+            "options": ["P", "K", "Pt", "Po"],
+            "correct_answer": "K"
+        },
+        {
+            "question": "Who wrote 'Moby-Dick'?",
+            "options": ["Herman Melville", "Nathaniel Hawthorne", "Edgar Allan Poe", "Mark Twain"],
+            "correct_answer": "Herman Melville"
+        },
+        {
+            "question": "What is the capital of China?",
+            "options": ["Shanghai", "Beijing", "Guangzhou", "Shenzhen"],
+            "correct_answer": "Beijing"
+        },
+        {
+            "question": "What is the largest bone in the human body?",
+            "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+            "correct_answer": "Femur"
+        },
+        {
+            "question": "What is the chemical symbol for carbon?",
+            "options": ["C", "Ca", "Cb", "Cd"],
+            "correct_answer": "C"
+        },
+        {
+            "question": "Who wrote 'The Catcher in the Rye'?",
+            "options": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"],
+            "correct_answer": "J.D. Salinger"
+        },
+        {
+            "question": "What is the capital of Brazil?",
+            "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+            "correct_answer": "Brasília"
+        },
+        {
+            "question": "What is the smallest unit of life?",
+            "options": ["Atom", "Molecule", "Cell", "Organ"],
+            "correct_answer": "Cell"
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "options": ["Si", "Ag", "Au", "S"],
+            "correct_answer": "Ag"
+        },
+        {
+            "question": "Who wrote 'War and Peace'?",
+            "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Alexander Pushkin"],
+            "correct_answer": "Leo Tolstoy"
+        }
+
+]

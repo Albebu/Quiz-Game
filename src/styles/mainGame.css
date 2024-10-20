@@ -1,0 +1,80 @@
+body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url('/public/background.jpg');
+  background-size: cover;
+  overflow-y: auto; /* Asegúrate de que el body permita el scroll */
+  height: 100vh; /* Asegúrate de que el body tenga altura */
+}
+
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+.MainGameContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.column{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  perspective: 1000px;
+}
+
+.MainGame-button {
+  display: flex;
+  justify-content: center;
+}
+
+.MainGame-lose {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(77, 146, 241);
+  z-index: 1;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.MainGame-lose h2 {
+  align-self: center;
+  font-size: 3em;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.MainGame-lose h4 {
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.MainGame-lose p {
+  font-size: 2em;
+}
+
+.MainGame-lose img {
+  width: 150px;
+  height: 150px;
+  align-self: center;
+  justify-self: center;
+}
+
+.MainGame {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

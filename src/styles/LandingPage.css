@@ -1,0 +1,136 @@
+
+body {
+    background-color: rgb(48, 48, 48);
+}
+.landingPage {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.landingPage-first-h1 {
+    color: rgb(238, 202, 42);
+    font-size: 6em;
+    opacity: 0;
+    animation-name: first-h1-animation;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+
+.landingPage-h1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.landingPage-h1 h1 {
+    font-family: Helvetica bold, Arial;
+}
+
+.landingPage-second-h1 {
+    color: rgb(238, 202, 42);
+    font-size: 4em;
+    opacity: 0;
+    animation-name: second-h1-animation;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+}
+
+.landingPage-third-h1 {
+    color: rgb(243, 128, 35);
+    font-size: 6em;
+    opacity: 0;
+    animation-name: third-h1-animation;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-delay: 3s;
+    grid-column: span 2;
+}
+
+.landingPage-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    animation-name: landingPageForm-animation;
+    animation-duration: 7s;
+    animation-iteration-count: 1;
+}
+
+.landingPage-form h2 {
+    color: rgb(238, 202, 42);
+}
+
+.landingPage-input {
+    display: flex;
+    flex-direction: row;
+    color: rgb(238, 202, 42);
+    opacity: 0;
+    animation-name: second-h1-animation;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+
+}
+
+.landingPage-input input {
+    background: transparent;
+    border: none;
+    color: rgb(243, 128, 35);
+    font-size: 4em;
+    font-family: Helvetica bold;
+    outline: none;
+    margin-left: 20px;
+}
+
+.landingPage-input input::placeholder {
+    border: none;
+}
+
+.landingPage-input input::focus {
+    color: rgb(243, 128, 35);
+}
+
+
+
+@keyframes first-h1-animation {
+    0% {
+        transform: translateX(-1000px);
+    }
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes second-h1-animation {
+    0% {
+        transform: translateY(-1000px);
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes third-h1-animation {
+    0% {
+        transform: translateX(1000px);
+    }
+    100% {
+        transform: translateX(0px);
+        opacity: 100%;
+    }
+}
+
+@keyframes landingPageForm-animation {
+    0% {
+        transform: translateY(1000px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
